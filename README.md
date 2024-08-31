@@ -2,7 +2,11 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" href="https://www.linkedin.com/in/felipe-maki-781924287/" height="25" alt="linkedin logo"  />
+  <a target="_blank" href="https://www.linkedin.com/in/felipe-maki-781924287/">
+  <img
+    src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badg"
+    alt="Linkedin logo" />
+</a>
 </div>
 
 ###
